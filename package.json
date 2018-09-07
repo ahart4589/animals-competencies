@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "server/server.js",
+  "proxy": "http://localhost:3030",
   "dependencies": {
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
